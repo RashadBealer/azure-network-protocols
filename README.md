@@ -62,7 +62,7 @@ In Wireshark, observe the captured packets to analyze source and destination IP 
 <br />
 
 <p>
-<img src="https://imgur.com/a/tp2FDzL" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Aqg7QbP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create NSGs:
